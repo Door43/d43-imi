@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[imi:home|Door43 (imi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-imi|d43-imi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-imi/archive/master.zip|d43-imi.zip]]
+
+**Recent Changes**
+{{changes>ns = imi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/imi|Ethnologue data]]
+
